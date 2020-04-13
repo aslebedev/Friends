@@ -18,6 +18,8 @@
 		11B89525238922DE00785FB3 /* Friend.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11B89524238922DE00785FB3 /* Friend.swift */; };
 		11B8952B2389630C00785FB3 /* UserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11B8952A2389630C00785FB3 /* UserView.swift */; };
 		11B8952D2389773E00785FB3 /* Users.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11B8952C2389773E00785FB3 /* Users.swift */; };
+		11E01F05244468F2008C6B7C /* AlertItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11E01F04244468F2008C6B7C /* AlertItem.swift */; };
+		11E40E40244477F3005720E9 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11E40E3F244477F3005720E9 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,8 @@
 		11B89524238922DE00785FB3 /* Friend.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Friend.swift; sourceTree = "<group>"; };
 		11B8952A2389630C00785FB3 /* UserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserView.swift; sourceTree = "<group>"; };
 		11B8952C2389773E00785FB3 /* Users.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Users.swift; sourceTree = "<group>"; };
+		11E01F04244468F2008C6B7C /* AlertItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertItem.swift; sourceTree = "<group>"; };
+		11E40E3F244477F3005720E9 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +72,8 @@
 			children = (
 				11B8950B238922A800785FB3 /* AppDelegate.swift */,
 				11B8950D238922A800785FB3 /* SceneDelegate.swift */,
+				11E01F04244468F2008C6B7C /* AlertItem.swift */,
+				11E40E3F244477F3005720E9 /* Extensions.swift */,
 				11B8952C2389773E00785FB3 /* Users.swift */,
 				11B89522238922D300785FB3 /* User.swift */,
 				11B89524238922DE00785FB3 /* Friend.swift */,
@@ -166,8 +172,10 @@
 				11B89511238922A800785FB3 /* Friends.xcdatamodeld in Sources */,
 				11B89513238922A800785FB3 /* ContentView.swift in Sources */,
 				11B8952B2389630C00785FB3 /* UserView.swift in Sources */,
+				11E40E40244477F3005720E9 /* Extensions.swift in Sources */,
 				11B89525238922DE00785FB3 /* Friend.swift in Sources */,
 				11B89523238922D300785FB3 /* User.swift in Sources */,
+				11E01F05244468F2008C6B7C /* AlertItem.swift in Sources */,
 				11B8950E238922A800785FB3 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

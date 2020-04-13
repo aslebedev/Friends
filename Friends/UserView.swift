@@ -3,7 +3,7 @@
 //  Friends
 //
 //  Created by alexander on 23.11.2019.
-//  Copyright © 2019 alexander. All rights reserved.
+//  Copyright © 2020 alexander. All rights reserved.
 //
 
 import SwiftUI
